@@ -20,6 +20,10 @@ _Get started using GitHub in less than an hour._
 -->
 
 # 这是`<h1>` header，一级标题,
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## 这是 `<h2>` header, 二级标题
 
