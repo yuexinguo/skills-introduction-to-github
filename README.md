@@ -1,5 +1,6 @@
 <header>
 
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -17,6 +18,16 @@ _Get started using GitHub in less than an hour._
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+
+# 这是`<h1>` header，一级标题,
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## 这是 `<h2>` header, 二级标题
+
+###### 这是 `<h6>` header, 最小的标题
 
 ## Finish
 
